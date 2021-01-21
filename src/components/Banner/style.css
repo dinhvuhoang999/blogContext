@@ -1,0 +1,25 @@
+.site-heading{
+    padding-top: 250px;
+    text-align:  center;
+}
+.site-heading h1{
+    font-weight: 800;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: white;
+    font-size: 90px;
+    
+}
+.site-heading span{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    opacity: .5;
+}
